@@ -1,1 +1,1 @@
-This is my first readme 369
+Hi 369 my first change in git
